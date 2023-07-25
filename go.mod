@@ -1,3 +1,3 @@
-module github.com/petar-dambovaliev/aho-corasick
+module github.com/trufflesecurity/aho-corasick
 
 go 1.15
